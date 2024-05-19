@@ -29,13 +29,13 @@ For this reason, we searched for homebrew applications available on both platfor
 
 ## Theme:
 The theme used, **X2P - Xbox to Playstation**, is available in two colors (Green and Blue) and is Designed by Berion and Made by [Ripto](https://github.com/knowahitall).  
-It can be downloaded from the [Releases Page](https://github.com/koraxial/Xbox-2-PlayStation-Emulator/releases/tag/THM-v2) and/or the [Releases Thread](https://www.psx-place.com/threads/opl-theme-x2p-april-fools-xbox-opl-theme-multi-pack-supports-all-opl-forks.43435/).
+It can be downloaded from the [Releases Page](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/releases/tag/THM-v2) and/or the [Releases Thread](https://www.psx-place.com/threads/opl-theme-x2p-april-fools-xbox-opl-theme-multi-pack-supports-all-opl-forks.43435/).
 
 -----
 
 ## Links:
 ### Downloads:
-- [Releases Page]( https://github.com/koraxial/Xbox-2-PlayStation-Emulator/releases/)
+- [Releases Page]( https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/releases/)
 - [Internet Archive](https://web.archive.org/web/20240401135103/https://cdn.discordapp.com/attachments/799243822743289866/1224268410708295721/X2P.7z?ex=661cdfce&is=660a6ace&hm=3f213340eb1dc629ac282262210a821e737d93f425362fab764ceda424a84173&)
 
 ### Video showcases:
@@ -69,7 +69,7 @@ And lastly, a big thank you **F**or **O**ur **O**riginal **L**oyal **S**upporter
 
 -----
 
-Did you know there's an awesome easter hidden in the [release](https://github.com/koraxial/Xbox-2-PlayStation-Emulator/releases/tag/17022) ELF?
+Did you know there's an awesome easter hidden in the [release](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/releases/tag/17022) ELF?
 Maybe a file in the source has clues? 😉
 
 [Original OPL Readme (from v1.2.0-2081)](OPL_README.md)
