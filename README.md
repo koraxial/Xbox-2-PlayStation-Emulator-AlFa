@@ -1,4 +1,7 @@
 # Xbox 2 PlayStation Emulator
+### This project is a modified fork of [ps2homebrew](https://github.com/ps2homebrew)/[Open-PS2-Loader](https://github.com/ps2homebrew/Open-PS2-Loader)
+
+-----
 
 ## Introduction:
 X2P is an Xbox emulator for the PlayStation 2. It was developed in secrecy, with consistent updates over the last 15 years. The GUI is adapted from Open PS2 Loader Beta 1.2.0 1996, but at its core, it's an emulator. Running Xbox games on a PS2 might seem unthinkable, but here's how it's done.
