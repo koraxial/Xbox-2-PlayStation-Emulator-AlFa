@@ -27,6 +27,13 @@ For this reason, we searched for homebrew applications available on both platfor
 
 -----
 
+## Compile:
+[![ContinuousIntegration](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/actions/workflows/compilation.yml/badge.svg?branch=master)](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/actions/workflows/compilation.yml) 
+</br>```>> last build check: July 5, 2024```</br></br>
+<i> in case of compilation errors, please raise an issue [here](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/issues/new?assignees=&labels=bug&projects=&template=issue-report.yml&title=%5BISSUE%5D%3A+). </i>
+
+-----
+
 ## Theme:
 The theme used, **X2P - Xbox to Playstation**, is available in two colors (Green and Blue) and is Designed by Berion and Made by [Ripto](https://github.com/knowahitall).  
 It can be downloaded from the [Releases Page](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/releases/tag/THM-v2) and/or the [Releases Thread](https://www.psx-place.com/threads/opl-theme-x2p-april-fools-xbox-opl-theme-multi-pack-supports-all-opl-forks.43435/).
