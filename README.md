@@ -10,6 +10,13 @@ The emulator is entirely written in Assembler—around 120,000 lines—to ensure
 
 -----
 
+## Compile:
+[![ContinuousIntegration](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/actions/workflows/compilation.yml/badge.svg?branch=master)](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/actions/workflows/compilation.yml) 
+</br>```>> last build check: July 5, 2024```</br></br>
+<i> in case of compilation errors, please raise an issue [here](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/issues/new?assignees=&labels=bug&projects=&template=issue-report.yml&title=%5BISSUE%5D%3A+). </i>
+
+-----
+
 ## Secrets behind X2P:
 This project is an April Fools prank **and does NOT work** as a real emulator. The **Introduction** given above **is entirely FAKE!!**  The code is however based on OPL-v1.2.0-2081 and still functions as normal OPL does. There are some exceptions but functionally the ELF is still OPL.
 
@@ -24,13 +31,6 @@ X2P ELF has some differences as compared to OPL, those are:
 The disc image containing XRICK is a hybrid one. The PS2 contents are hidden (as ISO9660 allows this), while the Xbox contents are visible. Thus, users opening the image may initially believe it is solely Xbox material. However, in reality, it includes SYSTEM.CNF and XRICK.XBE, which is actually XRICK.ELF. The name has been changed to conceal the April Fools' joke in the OPL menu, and for the PS2 side of the software, the file name doesn't matter as long as it doesn't violate the ISO9660 standard and is correctly referenced in the CNF.
 
 For this reason, we searched for homebrew applications available on both platforms that could also be loaded successfully from OPL. Fortunately, XRick was the only application that met these criteria.
-
------
-
-## Compile:
-[![ContinuousIntegration](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/actions/workflows/compilation.yml/badge.svg?branch=master)](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/actions/workflows/compilation.yml) 
-</br>```>> last build check: July 5, 2024```</br></br>
-<i> in case of compilation errors, please raise an issue [here](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/issues/new?assignees=&labels=bug&projects=&template=issue-report.yml&title=%5BISSUE%5D%3A+). </i>
 
 -----
 
