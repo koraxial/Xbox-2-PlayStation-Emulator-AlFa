@@ -102,7 +102,7 @@ TRANSLATIONS = Albanian Arabic Bulgarian Cebuano Croatian Czech Danish Dutch Fil
 
 EE_BIN = X2P.elf
 EE_BIN_STRIPPED = X2P_stripped.elf
-EE_BIN_PACKED = X2P.ELF
+EE_BIN_PACKED = X2P_compressed.ELF
 EE_VPKD = X2P-$(OPL_VERSION)
 EE_SRC_DIR = src/
 EE_OBJS_DIR = obj/
