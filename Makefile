@@ -100,7 +100,7 @@ TRANSLATIONS = Albanian Arabic Bulgarian Cebuano Croatian Czech Danish Dutch Fil
 	German Greek Hungarian Indonesian Italian Japanese Korean Laotian Persian Polish Portuguese \
 	Portuguese_BR Romana Russian Ryukyuan SChinese Spanish Swedish TChinese Turkish Vietnamese
 
-EE_BIN = X2P-v0.5.4-alpha-17022-REV5.elf
+E_BIN = X2P-v0.5.4-alpha-17022-REV5.elf
 EE_BIN_STRIPPED = X2P-v0.5.4-alpha-17022-REV5_stripped.elf
 EE_BIN_PACKED = X2P-v0.5.4-alpha-17022-REV5_compressed.ELF
 EE_VPKD = OPNPS2LD-$(OPL_VERSION)
