@@ -13,7 +13,8 @@ The emulator is entirely written in Assembler—around 120,000 lines—to ensure
 ## Compile:
 [![ContinuousIntegration](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/actions/workflows/compilation.yml/badge.svg?branch=master)](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/actions/workflows/compilation.yml) 
 </br>```>> last build check: July 5, 2024```</br></br>
-<i> in case of compilation errors, please raise an issue [here](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/issues/new?assignees=&labels=bug&projects=&template=issue-report.yml&title=%5BISSUE%5D%3A+). </i>
+Due to continuous updates to the [PS2SDK](https://github.com/ps2dev/ps2sdk), X2P might break. </br> 
+<i> In case of compilation errors, please raise an issue [here](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa/issues/new?assignees=&labels=bug&projects=&template=issue-report.yml&title=%5BISSUE%5D%3A+). </i>
 
 -----
 
